@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "GT Eesti Pro Display";
+  src: local("GT Eesti Pro Display Bold"), local("../fonts/GTEestiProDisplay-Bold"), url("../fonts/GTEestiProDisplay-Bold.woff2") format("woff2"), url("../fonts/GTEestiProDisplay-Bold.woff") format("woff"), url("../fonts/GTEestiProDisplay-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "GT Eesti Pro Display";
+  src: local("GT Eesti Pro Display Medium"), local("../fonts/GTEestiProDisplay-Medium"), url("../fonts/GTEestiProDisplay-Medium.woff2") format("woff2"), url("../fonts/GTEestiProDisplay-Medium.woff") format("woff"), url("../fonts/GTEestiProDisplay-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "GT Eesti Pro Display";
+  src: local("GT Eesti Pro Display Regular"), local("../fonts/GTEestiProDisplay-Regular"), url("../fonts/GTEestiProDisplay-Regular.woff2") format("woff2"), url("../fonts/GTEestiProDisplay-Regular.woff") format("woff"), url("../fonts/GTEestiProDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}/*# sourceMappingURL=fonts.css.map */
